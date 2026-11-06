@@ -94,10 +94,6 @@ The following definitions describe the logic used in the SQL analysis. Use match
 
 **Important calculation limitation:** The current SQL queries multiply quantity by the product's USD unit price. They do not use the transaction's `Currency Code` or the `Exchange_Rates` table to convert prices. Describe this KPI as *estimated revenue based on USD list price* unless you update the calculation to apply exchange rates and any required business rules.
 
-## Power BI Dashboard
-
-https://github.com/munumunaasar-tech/Global-Retailer-sales_analysis/blob/main/customers%20order%20analysis.png
-
 
 The report is intended to support analysis of:
 
