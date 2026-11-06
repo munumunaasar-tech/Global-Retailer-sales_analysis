@@ -1,4 +1,4 @@
-Global Retailer Sales Analytic
+--Global Retailer Sales Analytic
 
 An end-to-end sales analytics project using SQL (PostgreSQL) and Power BI to explore retail sales performance across products, customers, brands, categories, countries, stores, and time.
 
@@ -108,3 +108,6 @@ This project demonstrates an analytics workflow from relational data and SQL bus
 SQL querying • Relational data modeling • Data aggregation • Window functions • CTEs • KPI definition • Power BI reporting • Interactive data exploration • Business analysis
 
 Aspiring Data Analyst | SQL | Power BI
+
+
+
